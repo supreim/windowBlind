@@ -231,9 +231,9 @@ export default function GestureBlindDashboard() {
                 </div>
                 <div className="rounded-4xl border border-white/10 bg-white/5 p-5">
                   <p className="text-sm text-white/55">Control Mode</p>
-                  <p className="mt-2 text-xl font-semibold">{autoMode ? "Hybrid" : "Manual"}</p>
+                  <p className="mt-2 text-xl font-semibold">{autoMode ? "Auto" : "Manual"}</p>
                   <p className="mt-2 text-sm text-white/60">
-                    Manual buttons with optional light-based adjustment.
+                    Auto adjust blinds based on light levels and user preferences.
                   </p>
                 </div>
               </div>
