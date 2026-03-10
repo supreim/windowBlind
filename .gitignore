@@ -8,6 +8,8 @@
 
 # dependencies
 /node_modules
+/my-tailwind-app/node_modules
+/window-blind-web/node_modules
 /.pnp
 .pnp.*
 .yarn/*
