@@ -4,14 +4,14 @@
 .vscode/launch.json
 .vscode/ipch
 
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
 # dependencies
 node_modules/
 .next/
 dist/
 build/
-.env
+**/.env
+**/node_modules/
+**/.next/
 
 /.pnp
 .pnp.*
