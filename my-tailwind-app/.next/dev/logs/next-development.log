@@ -1,2 +1,11 @@
-[00:00:01.726] Server  LOG     ✓ Ready in 1223ms
-[00:01:02.618] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:01.827] Server  LOG     ✓ Ready in 1307ms
+[00:00:01.837] Browser ERROR   WebSocket error: {"isTrusted":true}
+[00:00:01.837] Browser LOG     WebSocket disconnected
+[00:00:01.837] Browser ERROR   WebSocket error: {"isTrusted":true}
+[00:00:01.837] Browser LOG     WebSocket disconnected
+[00:00:03.515] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:11.259] Browser LOG     WebSocket connected
+[00:03:15.896] Browser LOG     WebSocket disconnected
+[00:03:22.244] Browser LOG     WebSocket connected
+[00:06:28.611] Browser LOG     WebSocket disconnected
+[00:06:30.943] Browser LOG     WebSocket connected
