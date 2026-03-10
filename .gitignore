@@ -7,9 +7,12 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/node_modules
-/my-tailwind-app/node_modules
-/window-blind-web/node_modules
+node_modules/
+.next/
+dist/
+build/
+.env
+
 /.pnp
 .pnp.*
 .yarn/*
